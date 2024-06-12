@@ -15,6 +15,6 @@ jobs:
       - name: Build test and build docker image
         run: |
           export SHELL=/bin/bash
-          ./gradlew build
+          sudo ./gradlew build
 
     
