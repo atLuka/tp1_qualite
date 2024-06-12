@@ -24,7 +24,7 @@ public class Voiture {
     public void setPrix(float prix) {
 
         this.prix = prix;
-gu
+
     }
 
     public String getMarque() {
