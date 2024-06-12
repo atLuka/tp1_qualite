@@ -7,9 +7,7 @@ public class Voiture {
 
     float prix; 
     String marque ; 
-    // hello world 
-    // dizjaojdz
-    // new comment 
+    // hellocomm
 
     public Voiture(float prix, String marque) {
         this.prix = prix;
