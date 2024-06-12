@@ -8,7 +8,7 @@ public class Voiture {
     float prix; 
     String marque ; 
     // hello world 
-
+    // dtest etsg
 
     public Voiture(float prix, String marque) {
         this.prix = prix;
@@ -23,7 +23,7 @@ public class Voiture {
     public void setPrix(float prix) {
 
         this.prix = prix;
-
+gu
     }
 
     public String getMarque() {
