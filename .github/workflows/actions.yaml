@@ -12,6 +12,8 @@ jobs:
         with:
           java-version: '8'
           distribution: 'corretto'
+      - name: Add permissions
+        run : chmod +x ./gradlew 
       - name: Build test and build docker image
         run: |
           export SHELL=/bin/bash
